@@ -1,0 +1,17 @@
+.app-container {
+  .header-container {
+    .title {
+      color: white;
+      font-size: 20px;
+    }
+  }
+  .body-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .footer-container {
+    text-align: center;
+  }
+}
